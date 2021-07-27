@@ -1,9 +1,9 @@
 ### Hi there 👋
 
  
-### 技术栈---Android Java Python React/React Native 小程序
-### I’m currently learning ... 前端(React webpack Vue JavaScript)
-### How to reach me: ... 微信:hahame5218
+### 技术栈 ... Android Java Python React/React Native 小程序
+### 正在学 ... 前端(React webpack Vue JavaScript)
+### 微信   ... hahame5218
 
 
 
