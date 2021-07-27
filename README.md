@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=Daemon1993)
+![](https://github-readme-stats.vercel.app/api?username=Daemon1993&theme=dark)
