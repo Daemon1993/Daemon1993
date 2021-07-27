@@ -7,7 +7,7 @@
 #### 正在学 ... 前端(React webpack Vue JavaScript)   
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daemon1993)](https://github.com/anuraghazra/github-readme-stats) ![](https://github-readme-stats.vercel.app/api?username=Daemon1993) 
+![](https://github-readme-stats.vercel.app/api?username=Daemon1993)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daemon1993)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
