@@ -18,4 +18,3 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
