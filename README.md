@@ -4,7 +4,8 @@
 - ⚡  Android / Java / Python / React/React Native /小程序
 - ♟  Daemon / hahame5218  
 
-- ## [个人博客](www.http://daemon.fit)
+- ##[https://daemon.fit](https://daemon.fit/)
+
 
 #### 正在学 ... 前端(React webpack Vue JavaScript)   
 
