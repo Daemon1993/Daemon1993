@@ -7,7 +7,7 @@
 - ### [边学边码的个人站React https://daemon.fit](https://daemon.fit/)
 
 
-#### 正在学 ... 前端(React webpack JavaScript)   
+#### 正在学 ... 前端(React webpack JavaScript TypeScript)   
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Daemon1993)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daemon1993)](https://github.com/anuraghazra/github-readme-stats) 
