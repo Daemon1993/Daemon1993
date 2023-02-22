@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- ⚡  Android / Java / Python / React/React Native /小程序
+- ⚡  Android / Java / Python / Vue / React/React Native /小程序
 - ♟  Daemon / hahame5218  
 
 - ### [边学边码的个人站React https://daemon.fit](https://daemon.fit/)
