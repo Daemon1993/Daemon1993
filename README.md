@@ -2,7 +2,7 @@
 
 
 - ⚡  Android / Java / Python / Vue / React/React Native /小程序
-- ♟  Daemon / lb5959599  
+- ♟  Daemon_Yolo
 
 - ### [边学边码的个人站React https://daemon.fit](https://daemon.fit/)
 
