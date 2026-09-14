@@ -2,7 +2,9 @@
 
 AI 全栈开发
 
-- ⚡  Android / Java / Python / Vue / React /React Native /小程序 /Agent RAG LangGraph /Deepseek Harness插件
+- ⚡ 移动端：Android · Java
+- 🎨 前端：Vue · React · React Native · 小程序
+- 🧠 AI / 后端：Python · Agent · RAG · Langchain/LangGraph · DeepSeek Harness 插件
 - ♟  Daemon_Yolo
 - 🔗 [daemon99.top](https://www.daemon99.top)
 
